@@ -46,6 +46,6 @@ My fork of Frontail, the log viewer in the browser, made for openHAB: highlighti
 
 <br>
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/albertoangeli/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chip-linkedin-dark.png"><img alt="LinkedIn" src="assets/chip-linkedin-light.png" height="36"></picture></a> <a href="https://ko-fi.com/Interstellar0verdrive"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chip-kofi-dark.png"><img alt="Ko-fi" src="assets/chip-kofi-light.png" height="36"></picture></a>
 </p>
