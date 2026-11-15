@@ -8,30 +8,30 @@ Outside work, my home is my lab: it runs on Home Assistant, from the BTicino sys
 
 ## Mac apps
 
-<p><a href="https://github.com/Interstellar0verdrive/AnimeUp"><picture><source media="(max-width: 1279px)" srcset="assets/blank.png"><source media="(prefers-color-scheme: dark)" srcset="assets/row-animeup-dark.png"><img alt="AnimeUp. Upscales anime to 1080p and beyond, locally on Apple Silicon. Several engines, compared side by side." src="assets/row-animeup-light.png" width="33.33%"></picture></a><a href="https://github.com/Interstellar0verdrive/SubVision"><picture><source media="(max-width: 1279px)" srcset="assets/blank.png"><source media="(prefers-color-scheme: dark)" srcset="assets/row-subvision-dark.png"><img alt="SubVision. Extracts burned-in subtitles into clean SRT files with Apple's Vision OCR. Fine-tune the reading, then review and edit every line." src="assets/row-subvision-light.png" width="33.33%"></picture></a><a href="https://github.com/Interstellar0verdrive/Siesta"><picture><source media="(max-width: 1279px)" srcset="assets/blank.png"><source media="(prefers-color-scheme: dark)" srcset="assets/row-siesta-dark.png"><img alt="Siesta. A tiny menu bar app that gives long, heavy jobs regular breaks, to ease the thermal load on your Mac." src="assets/row-siesta-light.png" width="33.33%"></picture></a></p>
+<p><a href="https://github.com/Interstellar0verdrive/AnimeUp"><picture><source media="(max-width: 1279px)" srcset="assets/blank.png"><source media="(prefers-color-scheme: dark)" srcset="assets/card-animeup-dark.png"><img alt="AnimeUp. Upscales anime to 1080p and beyond, locally on Apple Silicon. Several engines, compared side by side." src="assets/card-animeup-light.png" width="33.33%"></picture></a><a href="https://github.com/Interstellar0verdrive/SubVision"><picture><source media="(max-width: 1279px)" srcset="assets/blank.png"><source media="(prefers-color-scheme: dark)" srcset="assets/card-subvision-dark.png"><img alt="SubVision. Extracts burned-in subtitles into clean SRT files with Apple's Vision OCR. Fine-tune the reading, then review and edit every line." src="assets/card-subvision-light.png" width="33.33%"></picture></a><a href="https://github.com/Interstellar0verdrive/Siesta"><picture><source media="(max-width: 1279px)" srcset="assets/blank.png"><source media="(prefers-color-scheme: dark)" srcset="assets/card-siesta-dark.png"><img alt="Siesta. A tiny menu bar app that gives long, heavy jobs regular breaks, to ease the thermal load on your Mac." src="assets/card-siesta-light.png" width="33.33%"></picture></a></p>
 
 <p>
-<a href="https://github.com/Interstellar0verdrive/AnimeUp"><picture><source media="(min-width: 1280px)" srcset="assets/blank.png"><source media="(prefers-color-scheme: dark)" srcset="assets/stk3-animeup-dark.png"><img alt="AnimeUp. Upscales anime to 1080p and beyond, locally on Apple Silicon. Several engines, compared side by side." src="assets/stk3-animeup-light.png" width="372"></picture></a>
-<a href="https://github.com/Interstellar0verdrive/SubVision"><picture><source media="(min-width: 1280px)" srcset="assets/blank.png"><source media="(prefers-color-scheme: dark)" srcset="assets/stk3-subvision-dark.png"><img alt="SubVision. Extracts burned-in subtitles into clean SRT files with Apple's Vision OCR. Fine-tune the reading, then review and edit every line." src="assets/stk3-subvision-light.png" width="372"></picture></a>
-<a href="https://github.com/Interstellar0verdrive/Siesta"><picture><source media="(min-width: 1280px)" srcset="assets/blank.png"><source media="(prefers-color-scheme: dark)" srcset="assets/stk3-siesta-dark.png"><img alt="Siesta. A tiny menu bar app that gives long, heavy jobs regular breaks, to ease the thermal load on your Mac." src="assets/stk3-siesta-light.png" width="372"></picture></a>
+<a href="https://github.com/Interstellar0verdrive/AnimeUp"><picture><source media="(min-width: 1280px)" srcset="assets/blank.png"><source media="(prefers-color-scheme: dark)" srcset="assets/stack-animeup-dark.png"><img alt="AnimeUp. Upscales anime to 1080p and beyond, locally on Apple Silicon. Several engines, compared side by side." src="assets/stack-animeup-light.png" width="372"></picture></a>
+<a href="https://github.com/Interstellar0verdrive/SubVision"><picture><source media="(min-width: 1280px)" srcset="assets/blank.png"><source media="(prefers-color-scheme: dark)" srcset="assets/stack-subvision-dark.png"><img alt="SubVision. Extracts burned-in subtitles into clean SRT files with Apple's Vision OCR. Fine-tune the reading, then review and edit every line." src="assets/stack-subvision-light.png" width="372"></picture></a>
+<a href="https://github.com/Interstellar0verdrive/Siesta"><picture><source media="(min-width: 1280px)" srcset="assets/blank.png"><source media="(prefers-color-scheme: dark)" srcset="assets/stack-siesta-dark.png"><img alt="Siesta. A tiny menu bar app that gives long, heavy jobs regular breaks, to ease the thermal load on your Mac." src="assets/stack-siesta-light.png" width="372"></picture></a>
 </p>
 
 ## Smart home
 
 <p>
-<a href="https://github.com/OpenWebNet-HA/MyHOME"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/name-myhome-dark.png"><img alt="MyHOME" src="assets/name-myhome-light.png" height="20"></picture></a> <a href="https://github.com/OpenWebNet-HA/MyHOME/stargazers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/OpenWebNet-HA/MyHOME?style=flat&label=%E2%98%85%20stars&labelColor=2e2a45&color=6d4fd8"><img alt="GitHub stars of MyHOME" src="https://img.shields.io/github/stars/OpenWebNet-HA/MyHOME?style=flat&label=%E2%98%85%20stars&labelColor=56536a&color=6d28d9" height="20"></picture></a>
+<a href="https://github.com/OpenWebNet-HA/MyHOME"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-myhome-dark.png"><img alt="MyHOME" src="assets/link-myhome-light.png" height="20"></picture></a> <a href="https://github.com/OpenWebNet-HA/MyHOME/stargazers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/OpenWebNet-HA/MyHOME?style=flat&label=%E2%98%85%20stars&labelColor=2e2a45&color=6d4fd8"><img alt="GitHub stars of MyHOME" src="https://img.shields.io/github/stars/OpenWebNet-HA/MyHOME?style=flat&label=%E2%98%85%20stars&labelColor=56536a&color=6d28d9" height="20"></picture></a>
 <br>
 I'm one of the maintainers of this Home Assistant integration for BTicino and Legrand MyHOME systems.
 </p>
 
 <p>
-<a href="https://github.com/Interstellar0verdrive/Linfa-local-control"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/name-linfa-dark.png"><img alt="Linfa local control" src="assets/name-linfa-light.png" height="20"></picture></a>
+<a href="https://github.com/Interstellar0verdrive/Linfa-local-control"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linfa-dark.png"><img alt="Linfa local control" src="assets/link-linfa-light.png" height="20"></picture></a>
 <br>
 A local bridge that brings Robonica Linfa hydroponic greenhouses into Home Assistant, over MQTT.
 </p>
 
 <p>
-<a href="https://github.com/Interstellar0verdrive/ugreen-telemetry-mqtt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/name-ugreen-dark.png"><img alt="UGREEN Telemetry MQTT" src="assets/name-ugreen-light.png" height="20"></picture></a>
+<a href="https://github.com/Interstellar0verdrive/ugreen-telemetry-mqtt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-ugreen-dark.png"><img alt="UGREEN Telemetry MQTT" src="assets/link-ugreen-light.png" height="20"></picture></a>
 <br>
 UGREEN NAS telemetry over MQTT, with a setup wizard in the browser. Ready for Home Assistant.
 </p>
@@ -39,7 +39,7 @@ UGREEN NAS telemetry over MQTT, with a setup wizard in the browser. Ready for Ho
 ### From the archive
 
 <p>
-<a href="https://github.com/Interstellar0verdrive/frontail_AEM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/name-frontail-dark.png"><img alt="Frontail for openHAB" src="assets/name-frontail-light.png" height="20"></picture></a>
+<a href="https://github.com/Interstellar0verdrive/frontail_AEM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-frontail-dark.png"><img alt="Frontail for openHAB" src="assets/link-frontail-light.png" height="20"></picture></a>
 <br>
 My fork of Frontail, the log viewer in the browser, made for openHAB: highlighting rules with regular expressions and a light and dark theme in the same page. Since openHABian 1.6.4 it's the Frontail it installs.
 </p>
