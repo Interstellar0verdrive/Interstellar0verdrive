@@ -20,7 +20,7 @@ I'm one of the maintainers of this Home Assistant integration for BTicino and Le
 </p>
 
 <p>
-<a href="https://github.com/Interstellar0verdrive/Linfa-local-control"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linfa-dark.png"><img alt="Linfa local control" src="assets/link-linfa-light.png" height="20"></picture></a>
+<a href="https://github.com/Interstellar0verdrive/Linfa-local-control"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linfa-local-control-dark.png"><img alt="Linfa Local Control" src="assets/link-linfa-local-control-light.png" height="20"></picture></a>
 <br>
 A local bridge that brings Robonica Linfa hydroponic greenhouses into Home Assistant, over MQTT.
 </p>
