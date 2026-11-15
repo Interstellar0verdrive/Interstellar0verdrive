@@ -13,13 +13,7 @@ Outside work, my home is my lab: it runs on Home Assistant, from the BTicino sys
 
 ## Mac apps
 
-<p><a href="https://github.com/Interstellar0verdrive/AnimeUp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-animeup-dark.png"><img alt="AnimeUp" src="assets/tile-animeup-light.png" width="33.33%"></picture></a><a href="https://github.com/Interstellar0verdrive/SubVision"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-subvision-dark.png"><img alt="SubVision" src="assets/tile-subvision-light.png" width="33.33%"></picture></a><a href="https://github.com/Interstellar0verdrive/Siesta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-siesta-dark.png"><img alt="Siesta" src="assets/tile-siesta-light.png" width="33.33%"></picture></a></p>
-
-**AnimeUp** · Upscales anime to 1080p and beyond, locally on Apple Silicon. Several engines, compared side by side.
-
-**SubVision** · Extracts burned-in subtitles into clean SRT files with Apple's Vision OCR, offline. Fine-tune the reading, then review and edit every line.
-
-**Siesta** · A tiny menu bar app that gives long, heavy jobs regular breaks, to ease the thermal load on your Mac.
+<p><a href="https://github.com/Interstellar0verdrive/AnimeUp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-animeup-dark.png"><img alt="AnimeUp. Upscales anime to 1080p and beyond, locally on Apple Silicon. Several engines, compared side by side." src="assets/card-animeup-light.png" width="281"></picture></a><a href="https://github.com/Interstellar0verdrive/SubVision"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-subvision-dark.png"><img alt="SubVision. Extracts burned-in subtitles into clean SRT files with Apple's Vision OCR, offline. Fine-tune the reading, then review and edit every line." src="assets/card-subvision-light.png" width="281"></picture></a><a href="https://github.com/Interstellar0verdrive/Siesta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-siesta-dark.png"><img alt="Siesta. A tiny menu bar app that gives long, heavy jobs regular breaks, to ease the thermal load on your Mac." src="assets/card-siesta-light.png" width="281"></picture></a></p>
 
 ## Smart home
 
