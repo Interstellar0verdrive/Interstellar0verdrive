@@ -1,9 +1,6 @@
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-  <img alt="Interstellar0verdrive. I design the tools I need, then I build them." src="assets/header-light.png" width="100%">
-</picture>
-</p>
+# Interstellar0verdrive
+
+### I design the *tools* I need, then I build them.
 
 Hi, I'm Alberto, Creative Director in Milan. I've been designing for twenty years, from industrial design and packaging to brands, intranets and apps; today I lead a team of about 30 designers in Experience Design and User-Centered Design.
 
