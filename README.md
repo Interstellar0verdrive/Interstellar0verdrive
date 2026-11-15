@@ -1,6 +1,4 @@
-# Interstellar0verdrive
-
-### I design the *tools* I need, then I build them.
+<p><picture><source media="(prefers-color-scheme: dark) and (min-width: 1012px), (prefers-color-scheme: dark) and (min-width: 640px) and (max-width: 767px)" srcset="assets/header-dark.png"><source media="(prefers-color-scheme: dark)" srcset="assets/header-narrow-dark.png"><source media="(min-width: 1012px), (min-width: 640px) and (max-width: 767px)" srcset="assets/header-light.png"><img alt="Interstellar0verdrive. I design the tools I need, then I build them." src="assets/header-narrow-light.png" width="100%"></picture></p>
 
 Hi, I'm Alberto, Creative Director in Milan. I've been designing for twenty years, from industrial design and packaging to brands, intranets and apps; today I lead a team of about 30 designers in Experience Design and User-Centered Design.
 
@@ -10,19 +8,19 @@ Outside work, my home is my lab: it runs on Home Assistant, from the BTicino sys
 
 ## Mac apps
 
-<p><a href="https://github.com/Interstellar0verdrive/AnimeUp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-animeup-dark.png"><img align="left" alt="" src="assets/art-animeup-light.png" width="260"></picture></a><a href="https://github.com/Interstellar0verdrive/AnimeUp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-animeup-dark.png"><img alt="AnimeUp" src="assets/title-animeup-light.png" width="360"></picture></a>
+<p><a href="https://github.com/Interstellar0verdrive/AnimeUp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-animeup-dark.png"><img align="left" alt="" src="assets/art-animeup-light.png" width="420"></picture></a><a href="https://github.com/Interstellar0verdrive/AnimeUp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-animeup-dark.png"><img alt="AnimeUp" src="assets/title-animeup-light.png" width="360"></picture></a>
 <br>
 Upscales anime to 1080p and beyond, locally on Apple Silicon. Several engines, compared side by side.
 <br clear="left">
 </p>
 
-<p><a href="https://github.com/Interstellar0verdrive/SubVision"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-subvision-dark.png"><img align="left" alt="" src="assets/art-subvision-light.png" width="260"></picture></a><a href="https://github.com/Interstellar0verdrive/SubVision"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-subvision-dark.png"><img alt="SubVision" src="assets/title-subvision-light.png" width="360"></picture></a>
+<p><a href="https://github.com/Interstellar0verdrive/SubVision"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-subvision-dark.png"><img align="left" alt="" src="assets/art-subvision-light.png" width="420"></picture></a><a href="https://github.com/Interstellar0verdrive/SubVision"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-subvision-dark.png"><img alt="SubVision" src="assets/title-subvision-light.png" width="360"></picture></a>
 <br>
 Extracts burned-in subtitles into clean SRT files with Apple's Vision OCR, offline. Fine-tune the reading, then review and edit every line.
 <br clear="left">
 </p>
 
-<p><a href="https://github.com/Interstellar0verdrive/Siesta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-siesta-dark.png"><img align="left" alt="" src="assets/art-siesta-light.png" width="260"></picture></a><a href="https://github.com/Interstellar0verdrive/Siesta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-siesta-dark.png"><img alt="Siesta" src="assets/title-siesta-light.png" width="360"></picture></a>
+<p><a href="https://github.com/Interstellar0verdrive/Siesta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-siesta-dark.png"><img align="left" alt="" src="assets/art-siesta-light.png" width="420"></picture></a><a href="https://github.com/Interstellar0verdrive/Siesta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-siesta-dark.png"><img alt="Siesta" src="assets/title-siesta-light.png" width="360"></picture></a>
 <br>
 A tiny menu bar app that gives long, heavy jobs regular breaks, to ease the thermal load on your Mac.
 <br clear="left">
