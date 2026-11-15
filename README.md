@@ -16,7 +16,7 @@ Upscales anime to 1080p and beyond, locally on Apple Silicon. Several engines, c
 
 <p><a href="https://github.com/Interstellar0verdrive/SubVision"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-subvision-dark.png"><img align="left" alt="" src="assets/app-subvision-light.png" width="420"></picture></a><a href="https://github.com/Interstellar0verdrive/SubVision"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-subvision-dark.png"><img alt="SubVision" src="assets/title-subvision-light.png" width="360"></picture></a>
 <br>
-Extracts burned-in subtitles into clean SRT files with Apple's Vision OCR, offline. Fine-tune the reading, then review and edit every line.
+Extracts burned-in subtitles into clean SRT files with Apple's Vision OCR. Fine-tune the reading, then review and edit every line.
 <br clear="left">
 </p>
 
